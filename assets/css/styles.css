@@ -145,7 +145,7 @@ a:hover {
 	width: 400px;
 	margin: 40px;
 	margin-top: 20px;
-	box-shadow: 12px 12px 1px #caf0f8;
+	box-shadow: 12px 12px 1px #0E46A3;
 	border-radius: 4px;
 }
 
@@ -187,7 +187,7 @@ a:hover {
 #about-img {
 	height: 450px;
 	border-radius: 4px;
-	box-shadow: 12px 12px 1px #caf0f8;
+	box-shadow: 12px 12px 1px #0E46A3;
 	overflow-y:hidden;
 	margin: 40px;
 	margin-top: 20px;
@@ -215,7 +215,7 @@ a:hover {
 	font-family: Monaco,monospace;
 	border-radius: 4px;
 	background-color: #2a2d34;
-	box-shadow: 12px 12px 1px #ade8f4;
+	box-shadow: 12px 12px 1px #0E46A3;
 }
 
 #console a {
