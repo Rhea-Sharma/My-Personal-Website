@@ -310,7 +310,7 @@ ul {
 	font-size: 80%;
 }
 
-/**Memories**/
+/**Projects**/
 
 #project-section {
 	margin: 50px;
@@ -349,9 +349,9 @@ ul {
   }
 
 .proj-img {
-	width: 300px;
-	height: 399px;
-	border-radius: 4px;
+	width: 350px;
+	height: 350px;
+	border-radius: 6px;
 
 }
 
@@ -369,8 +369,8 @@ ul {
 	align-items: center;
 	justify-content: center;
 	transition: opacity .4s, visibility .4s;
-	width: 300px;
-	height: 399px;
+	width: 350px;
+	height: 350px;
 }
 
 .each-project:hover .proj-description {
